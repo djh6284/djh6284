@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is a demo webpage created for GitHub Practice Stat 184
 <!--
 **djh6284/djh6284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
